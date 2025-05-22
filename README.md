@@ -1,5 +1,9 @@
 Author: AJ McDaniel
-Assignment: Homeowrk 05 Option 02
+Assignment: Homework 05 Option 02
 Project Name: Dynamic Data via RESTful API
 
-![Screenshot](HW5_SS1.png)
+
+<p align="center">
+  <img src="HW5_SS1.png" alt="Screenshot of Homework 5">
+</p>
+
